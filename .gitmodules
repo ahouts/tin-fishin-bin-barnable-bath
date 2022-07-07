@@ -1,0 +1,3 @@
+[submodule "scripts/dst-util"]
+	path = scripts/dst-util
+	url = git@github.com:ahouts/dst-util.git
