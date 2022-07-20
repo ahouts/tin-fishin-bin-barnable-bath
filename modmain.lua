@@ -21,7 +21,7 @@ AddPrefabPostInitAny(function(inst)
     })
 
     if not type.type_check(container_instance_type, inst) then
-        util.display(container_instance_type.describe())
+        util.modprint(container_instance_type.describe())
         util.display(inst)
         util.error("implementation of Tin Fishin' Bin changed, contact mod author!")
         return
