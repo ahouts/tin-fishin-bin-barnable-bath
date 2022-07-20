@@ -1,9 +1,3 @@
-[submodule "scripts/dst-util"]
-	path = scripts/dst-util
-	url = git@github.com:ahouts/dst-util.git
-[submodule "tin-fishin-bin-barnable-bath/scripts/dst-util"]
-	path = tin-fishin-bin-barnable-bath/scripts/dst-util
-	url = git@github.com:ahouts/dst-util.git
 [submodule "scripts/tin-fishin-bin-barnable-bath/dst-util"]
 	path = scripts/tin-fishin-bin-barnable-bath/dst-util
 	url = git@github.com:ahouts/dst-util.git

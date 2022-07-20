@@ -2,8 +2,8 @@ AddPrefabPostInitAny(function(inst)
     if not inst or inst.prefab ~= "fish_box" then
         return
     end
-    local util = require("dst-util/util")(GLOBAL)
-    local type = require("dst-util/type")(util)
+    local util = require("tin-fishin-bin-barnable-bath/dst-util/util")(GLOBAL)
+    local type = require("tin-fishin-bin-barnable-bath/dst-util/type")(util)
 
     local container_instance_type = type.Table({
         components = type.Table({
