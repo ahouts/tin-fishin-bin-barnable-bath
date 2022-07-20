@@ -1,7 +1,7 @@
 name = "Tin Fishin' Bin: Barnacle Bath"
 description = "Lets the barnacles bathe with their seafaring friends."
 author = "LazyTitan"
-version = "0.1.4"
+version = "0.1.5"
 
 api_version = 10
 dst_compatible = true
